@@ -1,0 +1,69 @@
+[18-Jul-2024 06:03:48 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:03:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:05:36 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:05:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:09:44 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:09:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:15:31 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:15:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:17:34 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:17:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:19:19 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:19:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:20:59 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:20:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:21:02 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:21:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:23:29 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:25:02 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:25:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:25:24 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:25:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:25:39 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:25:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:26:24 UTC] PHP Warning:  require(/home/iglweb/smart.iglweb.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iglweb/smart.iglweb.com/index.php on line 34
+[18-Jul-2024 06:26:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iglweb/smart.iglweb.com/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iglweb/smart.iglweb.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iglweb/smart.iglweb.com/index.php on line 34
+[29-Jul-2024 19:39:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/iglweb/smart.iglweb.com/vendor/composer/platform_check.php on line 24
+[29-Jul-2024 19:39:09 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/iglweb/smart.iglweb.com/vendor/composer/platform_check.php on line 24
+[27-Aug-2024 05:52:38 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserController::elearning_list() in /home/iglweb/smart.iglweb.com/app/Http/Controllers/UserController.php on line 84
+[27-Aug-2024 05:53:09 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserController::elearning_list() in /home/iglweb/smart.iglweb.com/app/Http/Controllers/UserController.php on line 88
